@@ -11,6 +11,7 @@ enable = false
 
 [YouTube-Morphe]
 app-name = "YouTube"
+nonroot = true
 patches-source = "MorpheApp/morphe-patches"
 cli-source = "MorpheApp/morphe-cli"
 rv-brand = "Morpheus"
